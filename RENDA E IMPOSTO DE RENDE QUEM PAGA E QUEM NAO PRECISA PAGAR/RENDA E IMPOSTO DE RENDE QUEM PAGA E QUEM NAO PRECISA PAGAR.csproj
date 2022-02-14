@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>RENDA_E_IMPOSTO_DE_RENDE_QUEM_PAGA_E_QUEM_NAO_PRECISA_PAGAR</RootNamespace>
+  </PropertyGroup>
+
+</Project>

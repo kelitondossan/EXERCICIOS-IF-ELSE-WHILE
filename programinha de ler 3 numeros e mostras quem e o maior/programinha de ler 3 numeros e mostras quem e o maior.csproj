@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>programinha_de_ler_3_numeros_e_mostras_quem_e_o_maior</RootNamespace>
+  </PropertyGroup>
+
+</Project>
